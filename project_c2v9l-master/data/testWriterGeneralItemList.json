@@ -1,0 +1,16 @@
+{
+  "ItemList": [
+    {
+      "itemName": "egg",
+      "quantity": 2,
+      "price": 3,
+      "aisle": 1
+    },
+    {
+      "itemName": "bacon",
+      "quantity": 3,
+      "price": 4,
+      "aisle": 2
+    }
+  ]
+}
